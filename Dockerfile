@@ -5,7 +5,7 @@ FROM node:lts-buster
 WORKDIR /app
 
 # Clone the repo (optional – better to use COPY for your own code)
-# RUN git clone https://github.com/officialpkdriller/PK-XMD.git .
+# RUN git clone https://github.com/JAMPAN47/AURA-GXR- .
 
 # Copy local files to the container
 COPY . .
