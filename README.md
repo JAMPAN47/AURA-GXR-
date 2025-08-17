@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐀𝐔𝐑𝐀+𝐆𝐗𝐑+💠+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐊𝐄𝐋𝐕𝐈𝐍)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://files.catbox.moe/uj4jzr.jpg" width="500" height="500" />
+<p align="centre"><img src="https://files.catbox.moe/dsmnru.jpg" width="500" height="500" />
 
 
 
